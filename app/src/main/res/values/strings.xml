@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Posts Test</string>
+    <string name="no_posts_found">No Posts Found</string>
+    <string name="reload">Reload</string>
+    <string name="try_again">Ooops something is wrong, please try again</string>
+    <string name="option_clear_text">Clear</string>
+    <string name="dialog_should_start_autoadd_service">The Auto-Add Service is not running, would you like to start it now?</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="option_start_autoadd_text">Start Auto-Add</string>
+    <string name="view">View</string>
+</resources>
